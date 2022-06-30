@@ -1,0 +1,28 @@
+{
+  "name": "top-bar-organizer-manage",
+  "version": "1.0.0",
+  "description": "Management interface of no-longer-maintained GNOME Extension top-bar-organizer",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorenEricMent/top-bar-organizer-manage.git"
+  },
+  "keywords": [
+    "GNOME",
+    "extensions"
+  ],
+  "author": "Winslow S.E.M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SorenEricMent/top-bar-organizer-manage/issues"
+  },
+  "homepage": "https://github.com/SorenEricMent/top-bar-organizer-manage#readme",
+  "dependencies": {
+    "electron": "^6.1.12",
+    "jquery": "^3.6.0"
+  }
+}
