@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/SorenEricMent/top-bar-organizer-manage#readme",
   "dependencies": {
-    "electron": "^6.1.12",
+    "electron": "^15.5.5",
     "jquery": "^3.6.0"
   }
 }
